@@ -1,11 +1,11 @@
+
 import "./Main.css"
 
 
-const Main=()=>{
+const Main=(props)=>{
+    
     return(
-        <div className="Main">
-            <h1>Main</h1>
-        </div>
+      <div></div>
     )
 }
 export default Main;

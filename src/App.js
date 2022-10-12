@@ -1,15 +1,22 @@
 
 import './App.css';
-import Card from './components/Cards/Card';
+
 import Main from './components/Main/Main';
 import Navbar from './components/Navbar/Navbar';
+import Data from "../src/assests/Data"
 
 function App() {
   return (
   <>
 <Navbar/>
-<Main/>
-<Card/>
+
+{Data.map((item)=>{
+  const {name, number,photo,position}=item;
+  return <Main  name={name} number={number} position={position} photo={photo}/>
+})}
+
+
+
 
 
   </>
