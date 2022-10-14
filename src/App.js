@@ -1,19 +1,20 @@
 
 import './App.css';
-
+import Buton from './components/Buton/Buton';
+import Header from './components/Header/Header';
 import Main from './components/Main/Main';
 
-import Data from "../src/assests/Data"
+
 
 function App() {
   return (
   <>
 
+<Header/>
 
-{Data.map((item)=>{
-  const {name, age,image,email}=item;
-  return <Main  name={name} age={age} image={image} email={email}/>
-})}
+<Main/>
+
+<Buton/>
 
 
 
