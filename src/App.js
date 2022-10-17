@@ -1,27 +1,20 @@
 
 import './App.css';
-import Buton from './components/Buton/Buton';
-import Header from './components/Header/Header';
-import Main from './components/Main/Main';
+import Events from './component/1-Event/Events';
 
 
 
 function App() {
-  return (
-  <>
+  return ( 
+  
+<div className="App">
 
-<Header/>
-
-<Main/>
-
-<Buton/>
+<Events/>
 
 
+</div>)}
 
+ 
 
-
-  </>
-)
-}
 
 export default App;
