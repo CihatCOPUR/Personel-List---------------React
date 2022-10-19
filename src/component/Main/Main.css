@@ -1,0 +1,21 @@
+main{
+    margin: auto;
+    
+}
+
+main img{
+width: 32.5%;
+margin-left: 0.5%;
+}
+
+@media screen and (max-width: 600px) {
+
+    main{
+        display: grid;
+    }
+main img{
+    width: 100%;
+}
+
+
+}
