@@ -20,7 +20,7 @@ const currentUsers=data.slice(indexOfFirstUser ,indexOfLastUser)
 
 
   return (
-    <center>
+    <div className="App">
 
 <Header from={indexOfFirstUser+1} to={indexOfFirstUser+currentUsers.length}/>
 
@@ -31,7 +31,7 @@ const currentUsers=data.slice(indexOfFirstUser ,indexOfLastUser)
 
 
       
-    </center>
+    </div>
   );
 }
 
