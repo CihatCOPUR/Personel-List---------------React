@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/React-Futboll-Team-Page/static/css/main.a01d7ce0.css",
-    "main.js": "/React-Futboll-Team-Page/static/js/main.1517655a.js",
-    "static/js/787.3386b701.chunk.js": "/React-Futboll-Team-Page/static/js/787.3386b701.chunk.js",
-    "static/media/jesus.png": "/React-Futboll-Team-Page/static/media/jesus.5d7f4c610be970461a5d.png",
-    "index.html": "/React-Futboll-Team-Page/index.html",
-    "main.a01d7ce0.css.map": "/React-Futboll-Team-Page/static/css/main.a01d7ce0.css.map",
-    "main.1517655a.js.map": "/React-Futboll-Team-Page/static/js/main.1517655a.js.map",
-    "787.3386b701.chunk.js.map": "/React-Futboll-Team-Page/static/js/787.3386b701.chunk.js.map"
+    "main.css": "/React-Personel-List/static/css/main.cc25755c.css",
+    "main.js": "/React-Personel-List/static/js/main.298330b1.js",
+    "static/js/787.3386b701.chunk.js": "/React-Personel-List/static/js/787.3386b701.chunk.js",
+    "index.html": "/React-Personel-List/index.html",
+    "main.cc25755c.css.map": "/React-Personel-List/static/css/main.cc25755c.css.map",
+    "main.298330b1.js.map": "/React-Personel-List/static/js/main.298330b1.js.map",
+    "787.3386b701.chunk.js.map": "/React-Personel-List/static/js/787.3386b701.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a01d7ce0.css",
-    "static/js/main.1517655a.js"
+    "static/css/main.cc25755c.css",
+    "static/js/main.298330b1.js"
   ]
 }
